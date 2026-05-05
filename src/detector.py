@@ -7,7 +7,6 @@ def z_score(series):
     std = np.std(series)
     return (series - mean) / std
 
-
 def detect_anomalies_zscore(data, threshold=2.5):
     z_scores = z_score(data["radiation"])
     anomalies = np.where(np.abs(z_scores) > threshold)[0]
@@ -24,7 +23,6 @@ def detect_anomalies_ai(data):
 
     anomalies = np.where(preds == -1)[0]
     return anomalies
-
 
 # ENGINEERING THRESHOLD DETECTION
 def detect_anomalies_threshold(data, upper=0.5, lower=0.0):
