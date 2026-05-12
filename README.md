@@ -4,6 +4,8 @@
 This project simulates a nuclear facility monitoring system designed to detect radiation leakage and containment anomalies using engineering thresholds, statistical analysis, and machine learning.
 
 ## Problem
+Manual radiation monitoring in some facicilies around the world faces challenges with real-time data logging and anomaly detection. This project aims to automate that process.
+
 Failure to detect abnormal radiation levels early can lead to:
 - Environmental contamination
 - Health hazards
