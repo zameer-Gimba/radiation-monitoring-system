@@ -1,7 +1,11 @@
 # ☢️ Radiation Leakage Monitoring & Containment Integrity System
 
-## Overview
+## Project Overview
 This project simulates a nuclear facility monitoring system designed to detect radiation leakage and containment anomalies using engineering thresholds, statistical analysis, and machine learning.
+
+**Objective:** To provide a robust, AI-driven monitoring framework applicable to nuclear research centers, medical radiotherapy units, and industrial facilities globally, ensuring compliance with international safety standards (IAEA).
+
+**Aim:** To develop and simulate an automated Radiological Surveillance System that utilizes AI to detect anomalies in radiation telemetry, providing real-time alerts and generating standardized compliance reports for facility safety officers.
 
 ## Problem
 Manual radiation monitoring in some facicilies around the world faces challenges with real-time data logging and anomaly detection. This project aims to automate that process.
