@@ -11,7 +11,7 @@ As this project aims to align with real-world nuclear safety standards, we speci
 *   **System Scalability:** Recommendations on database architecture for long-term storage of national radiation telemetry data.
 
 ### 3. Reporting & SOPs
-*   **Incident Reporting:** Advice on the "Alert" output format. What information does a Deputy Manager or Director need to see immediately when an anomaly is detected?
+*   **Incident Reporting:** Advice on the "Alert" output format. What information does a Manager or Director need to see immediately when an anomaly is detected?
 *   **Standard Operating Procedures:** Suggestions for the README on how an operator should technically respond when the AI model flags a high-risk event.
 
 
