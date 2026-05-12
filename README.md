@@ -38,7 +38,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Disclaimer
-This project uses synthetic data for research purposes and does not contain real-time telemetry from any specific facility." This protects him legally.
+This project uses synthetic data for research purposes and does not contain real-time telemetry from any specific facility or any unclassified information.
 
 ### Authors
 Muhammad Ibrahim Gimba
